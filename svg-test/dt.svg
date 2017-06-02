@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 250 200" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <title>background</title>
+    <rect fill="none" id="canvas_background" y="-1" x="-1"/>
+  </g>
+  <g>
+    <title>Layer 1</title>
+    <g id="svg_1" stroke="null" transform="matrix(1, 0, 0, 1, 3.999989, 13.283489)">
+      <path id="svg_2" d="M 146.208 153.267 L 12.362 153.267 C 6.155 153.267 0 145.928 0 139.721 L 0 10.489 C 0 4.283 6.155 0 12.362 0 L 85.007 0 L 231.493 0 C 237.698 0 242 4.283 242 10.489 L 242 139.721 C 242 145.928 237.698 153.267 231.493 153.267 L 146.208 153.267" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <line id="svg_3" y2="18.15" x2="240.991657" y1="18.15" x1="1.008325" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <line id="svg_4" y2="127.049999" x2="240.991657" y1="127.049999" x1="1.008325" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <polyline id="svg_5" points="96.2958 153.267 85.4058 173.433 158.447 173.433 147.213 153.267 147.083 153.365" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" transform="" style="stroke-width: 3;"/>
+      <circle id="svg_6" r="2.248584" cy="8.804767" cx="17.980592" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <circle id="svg_7" r="2.248583" cy="8.804767" cx="28.094175" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <circle id="svg_8" r="2.246566" cy="8.804767" cx="38.207758" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <g clip-path="url(#clipPath_for_code)">
+        <g stroke="null" id="code">
+          <line stroke="#4591DD" id="svg_9" y2="33.191174" x2="39.646124" y1="33.191174" x1="17.141658" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_10" y2="42.99868" x2="71.152378" y1="42.99868" x1="26.143445" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_11" y2="42.99868" x2="129.663988" y1="42.99868" x1="80.154162" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_12" y2="52.806185" x2="138.665775" y1="52.806185" x1="39.646124" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_13" y2="62.613692" x2="129.663988" y1="62.613692" x1="53.148804" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_14" y2="72.421197" x2="107.159523" y1="72.421197" x1="53.148804" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_15" y2="78.959534" x2="75.653269" y1="78.959534" x1="39.646124" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_16" y2="88.767041" x2="48.64791" y1="88.767041" x1="26.143445" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_17" y2="98.574548" x2="39.646124" y1="98.574548" x1="17.141658" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_18" y2="105.112884" x2="120.662201" y1="105.112884" x1="30.644339" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+          <line stroke="#4591DD" id="svg_19" y2="114.92039" x2="107.159523" y1="114.92039" x1="44.147017" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" style="stroke-width: 3;"/>
+        </g>
+      </g>
+      <line id="svg_26" y2="115.718462" x2="146.825737" y1="33.035129" x1="146.825737" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="#4591DD" style="stroke-width: 3;"/>
+      <g id="interface" stroke="null">
+        <path id="svg_27" d="m223.84999,104.88482c0,6.2073 -1.41678,10.06518 -4.57343,10.06518l-50.87969,0c-3.15665,0 -6.7704,-3.8599 -6.7704,-10.06518l0,-61.80479c0,-6.2073 3.61495,-10.81135 6.7704,-10.81135l50.87969,0c3.15665,0 4.57343,4.60607 4.57343,10.81135l0,61.80479z" stroke-miterlimit="10" fill="none" style="stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+        <g clip-path="url(#clipPath_for_interface)" id="interface_cont">
+          <g id="interface_item_cont">
+            <g>
+              <path id="svg_31" d="M 218.393 56.158 C 218.393 57.986 216.9 59.467 215.06 59.467 L 171.47 59.467 C 169.628 59.467 168.136 57.985 168.136 56.158 L 168.136 42.584 C 168.136 40.756 169.629 39.275 171.47 39.275 L 215.06 39.275 C 216.901 39.275 218.393 40.757 218.393 42.584 L 218.393 56.158 Z" stroke-miterlimit="10" fill="none" style="stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+              <ellipse cx="177.73" cy="49.253" rx="6.486" ry="6.486" style="fill: rgba(216, 216, 216, 0); stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -0.695421, 25.07379)">
+              <path id="path-1" d="M 218.393 56.158 C 218.393 57.986 216.9 59.467 215.06 59.467 L 171.47 59.467 C 169.628 59.467 168.136 57.985 168.136 56.158 L 168.136 42.584 C 168.136 40.756 169.629 39.275 171.47 39.275 L 215.06 39.275 C 216.901 39.275 218.393 40.757 218.393 42.584 L 218.393 56.158 Z" stroke-miterlimit="10" fill="none" style="stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+              <ellipse cx="177.73" cy="49.253" rx="6.486" ry="6.486" style="fill: rgba(216, 216, 216, 0); stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -0.203908, 49.812973)">
+              <path id="path-2" d="M 218.393 56.158 C 218.393 57.986 216.9 59.467 215.06 59.467 L 171.47 59.467 C 169.628 59.467 168.136 57.985 168.136 56.158 L 168.136 42.584 C 168.136 40.756 169.629 39.275 171.47 39.275 L 215.06 39.275 C 216.901 39.275 218.393 40.757 218.393 42.584 L 218.393 56.158 Z" stroke-miterlimit="10" fill="none" style="stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+              <ellipse cx="177.73" cy="49.253" rx="6.486" ry="6.486" style="fill: rgba(216, 216, 216, 0); stroke: rgb(131, 208, 244); stroke-width: 3;"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

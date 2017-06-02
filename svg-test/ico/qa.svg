@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Layer_1" x="0px" y="0px" viewBox="0 0 246 200" xmlns="http://www.w3.org/2000/svg">
+  <g id="lens" transform="matrix(0.601703, 0, 0, 0.60534, 71.696999, 24.375612)">
+    <path fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 180.21 43.245 C 172.531 39.351 163.853 37.156 154.658 37.156" style="stroke-width: 2.48551;"/>
+    <path fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 211.2 93.696 C 211.2 75.086 202.207 58.575 188.332 48.27" style="stroke-width: 2.48551;"/>
+    <path fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 113.032 131.963 C 123.364 143.199 138.188 150.239 154.658 150.239" style="stroke-width: 2.48551;"/>
+    <path fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 98.117 93.696 C 98.117 101.213 99.583 108.38 102.244 114.942" style="stroke-width: 2.48551;"/>
+    <circle fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="154.658" cy="93.696" r="69.084" style="stroke-width: 2.48551;"/>
+    <path fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M 36.714 224.013 C 33.56 227.166 28.444 227.166 25.287 224.013 L 25.287 224.013 C 22.134 220.855 22.134 215.739 25.287 212.586 L 88.133 149.74 C 91.286 146.587 96.406 146.587 99.56 149.74 L 99.56 149.74 C 102.713 152.898 102.713 158.013 99.56 161.167 L 36.714 224.013 Z" style="stroke-width: 2.48551;"/>
+    <line fill="none" stroke="#4591DD" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="78.136" y1="159.739" x2="89.562" y2="171.164" style="stroke-width: 2.48551;"/>
+  </g>
+  <defs>
+    <clipPath id="mask">
+      <circle cx="154.658" cy="93.696" r="69.084" />
+    </clipPath>
+  </defs>
+  <g id="bug" transform="matrix(0.601703, 0, 0, 0.60534, 71.696999, 24.375612)" clip-path="url(#mask)">
+    <ellipse fill="none" stroke="#83D0F4" stroke-miterlimit="10" cx="255.049" cy="200.178" rx="22.899" ry="29.919" transform="matrix(1.000001, 0, 0, 1, -100.644167, -103.060684)" style="stroke-width: 2.48551;"/>
+    <line fill="none" stroke="#83D0F4" stroke-miterlimit="10" x1="153.059" y1="87.899" x2="153.059" y2="126.09" style="stroke-width: 2.48551;"/>
+    <path fill="none" stroke="#83D0F4" stroke-miterlimit="10" d="M 135.14 79.824 C 135.14 79.824 144.733 87.904 155.334 87.904 C 167.432 87.904 173.517 79.824 173.517 79.824" style="stroke-width: 2.48551;"/>
+    <line fill="none" stroke="#83D0F4" stroke-miterlimit="10" x1="141.452" y1="55.585" x2="147.91" y2="68.426" style="stroke-width: 2.48551;"/>
+    <polyline fill="none" stroke="#83D0F4" stroke-miterlimit="10" points="122.515 62.654 129.078 76.035 135.14 78.945" style="stroke-width: 2.48551;"/>
+    <polyline fill="none" stroke="#83D0F4" stroke-miterlimit="10" points="118.726 107.093 122.515 89.923 131.737 92.938" style="stroke-width: 2.48551;"/>
+    <polyline fill="none" stroke="#83D0F4" stroke-miterlimit="10" points="136.149 134.362 125.234 114.942 133.847 110.284" style="stroke-width: 2.48551;"/>
+    <line fill="none" stroke="#83D0F4" stroke-miterlimit="10" x1="167.605" y1="55.585" x2="161.145" y2="68.426" style="stroke-width: 2.48551;"/>
+    <polyline fill="none" stroke="#83D0F4" stroke-miterlimit="10" points="186.539 62.654 179.973 76.035 173.917 78.945" style="stroke-width: 2.48551;"/>
+    <polyline fill="none" stroke="#83D0F4" stroke-miterlimit="10" points="190.327 107.093 186.539 89.923 177.316 92.938" style="stroke-width: 2.48551;"/>
+    <polyline fill="none" stroke="#83D0F4" stroke-miterlimit="10" points="172.906 134.362 183.82 114.942 175.209 110.284" style="stroke-width: 2.48551;"/>
+  </g>
+</svg>
